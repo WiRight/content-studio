@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       sync: true,
     },
     repository: {
-      branch: 'master',
+      branch: 'staging',
       owner: "WiRight",
       repo: "content-studio",
     },
